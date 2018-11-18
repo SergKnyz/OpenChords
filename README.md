@@ -1,6 +1,8 @@
 OpenChords
 ==========
 
+[![Join the chat at https://gitter.im/OpenChords/Lobby](https://badges.gitter.im/OpenChords/Lobby.svg)](https://gitter.im/OpenChords/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 OpenChords is a guitar chord and lyrics management tool for guitarists and other musicians
 
 Background
